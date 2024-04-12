@@ -1,6 +1,6 @@
 # crt-subdomain-enum
 
-![pic]('picture.jpg')
+![pic](picture.jpg)
 
 A subdomain enumerator via Certificate Fingerprint
 
