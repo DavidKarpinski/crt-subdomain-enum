@@ -15,5 +15,5 @@ npm i
 ## Usage
 
 ```shell
-nodejs index.js <domain>
+nodejs index.js <domain> | tee <output file>
 ```
